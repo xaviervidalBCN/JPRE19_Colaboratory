@@ -1,4 +1,4 @@
-a
+﻿a
 abans
 abans-d'ahir
 abintestat
