@@ -1,0 +1,15 @@
+Catalan Stop Words
+Origen: http://latel.upf.edu/morgana/altres/pub/ca_stop.htm
+Autor: iulaLATEL@upf.edu
+
+Llista de mots buits del català
+
+Aquesta llista serveix per a dues coses: 
+ * per a detectar que un document és en català;
+ * per a negligir totes les paraules gramaticals i altres paraules buides a l'hora de fer un índex
+
+Pots fer-ne qualsevol ús no comercial sempre que citis: 
+ 
+Aquesta llista de mots buits del català ha estat obtinguda de Lluís de Yzaguirre i Maura, 
+director del Laboratori de Tecnologies Lingüístiques de l'IULA-UPF 
+(Institut de Lingüística Aplicada de la Universitat Pompeu Fabra)
